@@ -1,7 +1,7 @@
 Hi 👋 My name is Ihechikara Abba
 ================================
 
-Web Developer and Technical Writer
+Developer and Technical Author
 ----------------------------------
 
 * 🌍  I'm based in Nigeria
