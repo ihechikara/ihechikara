@@ -4,7 +4,6 @@ Hi 👋 My name is Ihechikara Abba
 Software Developer and Teacher
 ----------------------------------
 
-* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My blog](http://ihechikara.com/)
 * ✉️  You can contact me at [ihechikara.dev@gmail.com](mailto:ihechikara.dev@gmail.com)
 
